@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on mobil applications development
 - 🌱 I’m currently learning Mobil App Development, Swift, Kotlin, Algorithms and Data Structures. 
 - 💬 Ask me about artificial intelligence and mobile app development.
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/mehmet-bicici-07/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-bicici-07/)
